@@ -1,0 +1,13 @@
+.myclass{
+margin:  5px;
+
+}
+.myMargin2{
+    margin: 3px;
+}
+.container{
+    width: 80%;
+    overflow: hidden;
+    margin: 0;
+    text-align: center;
+}
